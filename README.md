@@ -15,7 +15,7 @@ Via email to ```j.ruffle@ucl.ac.uk```
 
 
 ## Reference
-[Lisa Cipolotti, Joe Mole, James K Ruffle, Amy Nelson, Robert Gray, and Parashkev Nachev. Cognitive control & the anterior cingulate cortex: necessity & coherence. Cortex 2024. DOI X](URL)
+[Lisa Cipolotti, Joe Mole, James K Ruffle, Amy Nelson, Robert Gray, and Parashkev Nachev. Cognitive control & the anterior cingulate cortex: necessity & coherence. Cortex 2024. DOI https://doi.org/10.1016/j.cortex.2024.11.010](https://doi.org/10.1016/j.cortex.2024.11.010)
 
 
 ## Funding
